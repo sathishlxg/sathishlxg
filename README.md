@@ -4,7 +4,7 @@
 
 :mortar_board: I'm a Microsoft Certified Technology Specialist (WCF developer)`
 
-:heart: Besides my work I enjoy setting up scaled down distributed systems with `Raspberry PI 4` :strawberry: cluster. I use this as my home lab to experiment with high availability and scalability scenario. I love to dig into open source projects to understand the internals of the software that I use.  
+:heart: Besides my work I enjoy setting up scaled down distributed systems with `Raspberry PI 4` :strawberry: cluster. I use this as my home lab to experiment with high availability and scalability scenarios. I love to dig into open source projects to understand the internals of the software that I use.  
 
 I have hands-on experience with the following technologies
 
